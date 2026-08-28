@@ -31,15 +31,3 @@ docker run -d \
   -p 5678:5678 \
   -v ~/.n8n:/home/node/.n8n \
   n8nio/n8n
-
-file:///home/marcos/Downloads/Dashboard_Executivo___Riscos_Ocupacionais_e_Psicossociais.html
-
-📈 Funcionalidades Principais
-Hierarquia Visual Intuitiva: KPIs em destaque no topo, seguidos por tabelas de auditoria detalhadas e gráficos de distribuição de riscos.
-
-Paleta de Cores Funcional: Cores sóbrias de azul corporativo combinadas com alertas em vermelho/âmbar para riscos críticos.
-
-Portabilidade Total: O relatório em HTML é autocontido, facilitando o envio por e-mail ou hospedagem rápida em servidores estáticos.
-
-📄 Licença
-Este projeto está sob a licença MIT.
