@@ -17,18 +17,6 @@ O projeto foi desenvolvido utilizando uma stack moderna e leve:
 
 ---
 
-## 📸 Demonstração do Projeto
-
-### 1. Painel Executivo (Dashboard)
-*(Substitua o link abaixo pela imagem real do seu dashboard rodando)*
-![Dashboard Executivo](caminho-para-sua-imagem/dashboard-preview.png)
-
-### 2. Fluxo Automatizado no n8n
-*(Substitua o link abaixo pela imagem real do seu workflow no n8n)*
-![Fluxo n8n](caminho-para-sua-imagem/n8n-workflow-preview.png)
-
----
-
 ## 🛠️ Como Executar o Projeto Localmente
 
 ### Pré-requisitos
@@ -43,3 +31,15 @@ docker run -d \
   -p 5678:5678 \
   -v ~/.n8n:/home/node/.n8n \
   n8nio/n8n
+
+file:///home/marcos/Downloads/Dashboard_Executivo___Riscos_Ocupacionais_e_Psicossociais.html
+
+📈 Funcionalidades Principais
+Hierarquia Visual Intuitiva: KPIs em destaque no topo, seguidos por tabelas de auditoria detalhadas e gráficos de distribuição de riscos.
+
+Paleta de Cores Funcional: Cores sóbrias de azul corporativo combinadas com alertas em vermelho/âmbar para riscos críticos.
+
+Portabilidade Total: O relatório em HTML é autocontido, facilitando o envio por e-mail ou hospedagem rápida em servidores estáticos.
+
+📄 Licença
+Este projeto está sob a licença MIT.
