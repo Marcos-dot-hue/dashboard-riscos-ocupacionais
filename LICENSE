@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+📈 Funcionalidades Principais
+Hierarquia Visual Intuitiva: KPIs em destaque no topo, seguidos por tabelas de auditoria detalhadas e gráficos de distribuição de riscos.
+
+Paleta de Cores Funcional: Cores sóbrias de azul corporativo combinadas com alertas em vermelho/âmbar para riscos críticos.
+
+Portabilidade Total: O relatório em HTML é autocontido, facilitando o envio por e-mail ou hospedagem rápida em servidores estáticos.
+
+🤝 Contribuição
+Contribuições, melhorias e sugestões são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+📄 Licença
+Este projeto está sob a licença MIT.
